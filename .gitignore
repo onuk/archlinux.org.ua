@@ -1,0 +1,11 @@
+/cache/*
+!/cache/index.html
+!/cache/.htaccess
+!/.htaccess
+/include/user/*
+!/include/user/index.html
+/img/avatars/*
+!/img/avatars/index.html
+/config.php
+/.idea/
+*~
