@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /search.php
+Disallow: /config.php
+Disallow: /admin*.php
+Disallow: /addons/
+Disallow: /cache/
+Disallow: /include/
+Disallow: /lang/
+Disallow: /wiki/
+Disallow: /style/
+Disallow: /plugins/
